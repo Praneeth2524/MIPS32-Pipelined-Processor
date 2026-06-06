@@ -154,7 +154,7 @@ MIPS32-Pipelined-Processor
 ```
 ---
 
-## Tools Used
+## Technologies and Tools
 
 * Verilog HDL
 * Icarus Verilog
@@ -165,5 +165,3 @@ MIPS32-Pipelined-Processor
 ## Author
 
 Sai Praneeth
-
-B.Tech Electronics and Computer Engineering (ECM)

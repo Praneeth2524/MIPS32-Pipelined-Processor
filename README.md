@@ -122,7 +122,7 @@ Simulation Result:
 ```text
 MIPS32-Pipelined-Processor
 │
-├── rtl
+├── src
 │   └── pipe_MIPS32.v
 │
 ├── testbench

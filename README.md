@@ -117,30 +117,6 @@ Simulation Result:
 
 ---
 
-## Project Structure
-
-```text
-MIPS32-Pipelined-Processor
-│
-├── src
-│   └── pipe_MIPS32.v
-│
-├── testbench
-│   ├── example1_tb.v
-│   └── example2_tb.v
-│
-├── architecture
-│   └── mips32_pipeline_diagram.jpg
-│
-├── waveforms
-│   ├── example1.png
-│   └── example2.png
-│
-└── README.md
-```
-
----
-
 ## Limitations
 
 Current implementation does not include:

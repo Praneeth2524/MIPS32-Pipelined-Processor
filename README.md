@@ -131,6 +131,29 @@ Programs containing data dependencies may require software-inserted NOP instruct
 
 ---
 
+## Project Structure
+
+```text
+MIPS32-Pipelined-Processor
+│
+├── architecture
+│   └── mips32_pipeline_diagram.jpg
+│
+├── src
+│   └── mips32.v
+│
+├── testbench
+│   ├── mips32_tb.v
+│   └── mips32_tb2.v
+│
+├── waveforms
+│   ├── Example_1.png
+│   └── Example_2.png
+│
+└── README.md
+```
+---
+
 ## Tools Used
 
 * Verilog HDL
